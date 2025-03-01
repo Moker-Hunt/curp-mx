@@ -2310,3 +2310,8 @@ blockquote cite {
     border-left: none !important;
     padding-left: 0 !important;
 }
+
+#accept-cookies{
+    font-size: 1.1rem;
+    font-weight: 700;
+}
